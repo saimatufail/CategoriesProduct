@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="477" />
+      <entry action="$Delete" count="72" />
+      <entry action="$Paste" count="209" />
+      <entry action="$SearchWeb" count="1" />
+      <entry action="$SelectAll" count="121" />
+      <entry action="$Undo" count="1447" />
+      <entry action="About" count="1" />
+      <entry action="Android Profiler" count="2" />
+      <entry action="Android.BuildApk" count="6" />
+      <entry action="Android.RunAndroidAvdManager" count="1" />
+      <entry action="Android.RunAndroidSdkManager" count="10" />
+      <entry action="Android.SyncProject" count="12" />
+      <entry action="ChangesView.Refresh" count="1" />
+      <entry action="CheckinProject" count="1" />
+      <entry action="ChooseDebugConfiguration" count="9" />
+      <entry action="CleanGradleProject" count="7" />
+      <entry action="CloseProject" count="1" />
+      <entry action="CommentByLineComment" count="433" />
+      <entry action="Cvs.BrowseCVSRepository" count="1" />
+      <entry action="Debug" count="178" />
+      <entry action="DialogOkAction Enter" count="393" />
+      <entry action="EditorBackSpace" count="4371" />
+      <entry action="EditorChooseLookupItem" count="1614" />
+      <entry action="EditorCopy" count="845" />
+      <entry action="EditorCut" count="1" />
+      <entry action="EditorDelete" count="5" />
+      <entry action="EditorDown" count="1127" />
+      <entry action="EditorEnter" count="962" />
+      <entry action="EditorLeft" count="13" />
+      <entry action="EditorLeftWithSelection" count="34" />
+      <entry action="EditorLineEnd" count="3" />
+      <entry action="EditorPageDown" count="4" />
+      <entry action="EditorPaste" count="1682" />
+      <entry action="EditorPasteSimple" count="1" />
+      <entry action="EditorRight" count="10" />
+      <entry action="EditorSplitLine" count="3" />
+      <entry action="EditorStartNewLine" count="9" />
+      <entry action="EditorTab" count="9" />
+      <entry action="EditorUp" count="906" />
+    
